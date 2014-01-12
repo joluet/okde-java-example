@@ -1,6 +1,6 @@
 oKDE-Java-Example
 =================
-This example project illustrates the basic usage of hte [okde-java library](https://github.com/joluet/okde-java).
+This example project illustrates the basic usage of the [okde-java library](https://github.com/joluet/okde-java).
 
 *******************************
 
@@ -24,3 +24,5 @@ The following libraries are used in oKDE-Java:
  	a linear algebra library for manipulating dense matrices
  *  [JMathPlot](https://code.google.com/p/jmathplot/),
  	a library to draw math plots
+ *  [okde-java](https://github.com/joluet/okde-java),
+ 	a java implementation of online kernel density estimation
