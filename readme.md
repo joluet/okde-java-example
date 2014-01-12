@@ -11,7 +11,8 @@ Just execute ant in project root to compile the project:
 **$ ant**
 
 Afterwards, the packed jar file can be found in the *dist*-folder.
-To execute the example using this command:
+
+To execute the example use the following command:
 
 **$ java -jar dist/okde-java-example**
 
