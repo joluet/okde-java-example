@@ -14,7 +14,7 @@ Afterwards, the packed jar file can be found in the *dist*-folder.
 
 To execute the example use the following command:
 
-**$ java -jar dist/okde-java-example**
+**$ java -jar dist/okde-java-example.jar**
 
 
 ## External Libraries Used
