@@ -184,7 +184,7 @@ public class oKdeExample extends JFrame {
 			for (int j = 0; j < y.length; j++) {
 				double[][] point = { { x[i] }, { y[j] } };
 				SimpleMatrix pointVector = new SimpleMatrix(point);
-				z[i][j] = dist.evaluate(pointVector);
+				z[j][i] = dist.evaluate(pointVector);
 			}
 		return z;
 	}
